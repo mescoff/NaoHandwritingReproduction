@@ -1,0 +1,10 @@
+Contour0
+shape of array: (522, 1, 2)
+ndim of array: 3
+size of array: 1044
+--------------- 
+Contour1
+shape of array: (171, 1, 2)
+ndim of array: 3
+size of array: 342
+--------------- 

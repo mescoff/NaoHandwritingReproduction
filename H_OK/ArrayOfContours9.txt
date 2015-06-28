@@ -1,0 +1,85 @@
+Contour0
+shape of array: (375, 1, 2)
+ndim of array: 3
+size of array: 750
+--------------- 
+Contour1
+shape of array: (1, 1, 2)
+ndim of array: 3
+size of array: 2
+--------------- 
+Contour2
+shape of array: (1, 1, 2)
+ndim of array: 3
+size of array: 2
+--------------- 
+Contour3
+shape of array: (1, 1, 2)
+ndim of array: 3
+size of array: 2
+--------------- 
+Contour4
+shape of array: (2, 1, 2)
+ndim of array: 3
+size of array: 4
+--------------- 
+Contour5
+shape of array: (2, 1, 2)
+ndim of array: 3
+size of array: 4
+--------------- 
+Contour6
+shape of array: (2, 1, 2)
+ndim of array: 3
+size of array: 4
+--------------- 
+Contour7
+shape of array: (2, 1, 2)
+ndim of array: 3
+size of array: 4
+--------------- 
+Contour8
+shape of array: (1, 1, 2)
+ndim of array: 3
+size of array: 2
+--------------- 
+Contour9
+shape of array: (2, 1, 2)
+ndim of array: 3
+size of array: 4
+--------------- 
+Contour10
+shape of array: (1, 1, 2)
+ndim of array: 3
+size of array: 2
+--------------- 
+Contour11
+shape of array: (1, 1, 2)
+ndim of array: 3
+size of array: 2
+--------------- 
+Contour12
+shape of array: (2, 1, 2)
+ndim of array: 3
+size of array: 4
+--------------- 
+Contour13
+shape of array: (2, 1, 2)
+ndim of array: 3
+size of array: 4
+--------------- 
+Contour14
+shape of array: (2, 1, 2)
+ndim of array: 3
+size of array: 4
+--------------- 
+Contour15
+shape of array: (1, 1, 2)
+ndim of array: 3
+size of array: 2
+--------------- 
+Contour16
+shape of array: (1, 1, 2)
+ndim of array: 3
+size of array: 2
+--------------- 

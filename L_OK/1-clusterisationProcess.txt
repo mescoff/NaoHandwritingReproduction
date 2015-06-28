@@ -1,0 +1,2141 @@
+value [111  55] goes to box: 0
+value [109  55] goes to box: 0
+value [108  56] goes to box: 0
+value [108  57] goes to box: 0
+value [118  57] goes to box: 0
+value [119  58] goes to box: 0
+value [130  58] goes to box: 0
+value [131  59] goes to box: 0
+value [143  59]doesn't fit in box:0
+We need a new box 
+length of Box list is NOW: 2
+Reference list is now: 2
+value [144  60]doesn't fit in box:0
+value [144  60] goes to box: 1
+value [160  60]doesn't fit in box:0
+value [160  60] goes to box: 1
+value [161  61]doesn't fit in box:0
+value [161  61] goes to box: 1
+value [182  61]doesn't fit in box:0
+value [182  61]doesn't fit in box:1
+We need a new box 
+length of Box list is NOW: 3
+Reference list is now: 3
+value [183  62]doesn't fit in box:0
+value [183  62]doesn't fit in box:1
+value [183  62] goes to box: 2
+value [210  62]doesn't fit in box:0
+value [210  62]doesn't fit in box:1
+value [210  62] goes to box: 2
+value [211  63]doesn't fit in box:0
+value [211  63]doesn't fit in box:1
+value [211  63] goes to box: 2
+value [299  63]doesn't fit in box:0
+value [299  63]doesn't fit in box:1
+value [299  63]doesn't fit in box:2
+We need a new box 
+length of Box list is NOW: 4
+Reference list is now: 4
+value [300  64]doesn't fit in box:0
+value [300  64]doesn't fit in box:1
+value [300  64]doesn't fit in box:2
+value [300  64] goes to box: 3
+value [301  63]doesn't fit in box:0
+value [301  63]doesn't fit in box:1
+value [301  63]doesn't fit in box:2
+value [301  63] goes to box: 3
+value [309  63]doesn't fit in box:0
+value [309  63]doesn't fit in box:1
+value [309  63]doesn't fit in box:2
+value [309  63] goes to box: 3
+value [310  62]doesn't fit in box:0
+value [310  62]doesn't fit in box:1
+value [310  62]doesn't fit in box:2
+value [310  62] goes to box: 3
+value [326  62]doesn't fit in box:0
+value [326  62]doesn't fit in box:1
+value [326  62]doesn't fit in box:2
+value [326  62] goes to box: 3
+value [327  63]doesn't fit in box:0
+value [327  63]doesn't fit in box:1
+value [327  63]doesn't fit in box:2
+value [327  63] goes to box: 3
+value [331  63]doesn't fit in box:0
+value [331  63]doesn't fit in box:1
+value [331  63]doesn't fit in box:2
+value [331  63]doesn't fit in box:3
+We need a new box 
+length of Box list is NOW: 5
+Reference list is now: 5
+value [332  64]doesn't fit in box:0
+value [332  64]doesn't fit in box:1
+value [332  64]doesn't fit in box:2
+value [332  64]doesn't fit in box:3
+value [332  64] goes to box: 4
+value [332  67]doesn't fit in box:0
+value [332  67]doesn't fit in box:1
+value [332  67]doesn't fit in box:2
+value [332  67]doesn't fit in box:3
+value [332  67] goes to box: 4
+value [333  68]doesn't fit in box:0
+value [333  68]doesn't fit in box:1
+value [333  68]doesn't fit in box:2
+value [333  68]doesn't fit in box:3
+value [333  68] goes to box: 4
+value [333  74]doesn't fit in box:0
+value [333  74]doesn't fit in box:1
+value [333  74]doesn't fit in box:2
+value [333  74]doesn't fit in box:3
+value [333  74] goes to box: 4
+value [334  75]doesn't fit in box:0
+value [334  75]doesn't fit in box:1
+value [334  75]doesn't fit in box:2
+value [334  75]doesn't fit in box:3
+value [334  75] goes to box: 4
+value [334  93]doesn't fit in box:0
+value [334  93]doesn't fit in box:1
+value [334  93]doesn't fit in box:2
+value [334  93]doesn't fit in box:3
+value [334  93]doesn't fit in box:4
+We need a new box 
+length of Box list is NOW: 6
+Reference list is now: 6
+value [335  94]doesn't fit in box:0
+value [335  94]doesn't fit in box:1
+value [335  94]doesn't fit in box:2
+value [335  94]doesn't fit in box:3
+value [335  94]doesn't fit in box:4
+value [335  94] goes to box: 5
+value [335 126]doesn't fit in box:0
+value [335 126]doesn't fit in box:1
+value [335 126]doesn't fit in box:2
+value [335 126]doesn't fit in box:3
+value [335 126]doesn't fit in box:4
+value [335 126]doesn't fit in box:5
+We need a new box 
+length of Box list is NOW: 7
+Reference list is now: 7
+value [334 127]doesn't fit in box:0
+value [334 127]doesn't fit in box:1
+value [334 127]doesn't fit in box:2
+value [334 127]doesn't fit in box:3
+value [334 127]doesn't fit in box:4
+value [334 127]doesn't fit in box:5
+value [334 127] goes to box: 6
+value [334 139]doesn't fit in box:0
+value [334 139]doesn't fit in box:1
+value [334 139]doesn't fit in box:2
+value [334 139]doesn't fit in box:3
+value [334 139]doesn't fit in box:4
+value [334 139]doesn't fit in box:5
+value [334 139] goes to box: 6
+value [335 140]doesn't fit in box:0
+value [335 140]doesn't fit in box:1
+value [335 140]doesn't fit in box:2
+value [335 140]doesn't fit in box:3
+value [335 140]doesn't fit in box:4
+value [335 140]doesn't fit in box:5
+value [335 140] goes to box: 6
+value [335 158]doesn't fit in box:0
+value [335 158]doesn't fit in box:1
+value [335 158]doesn't fit in box:2
+value [335 158]doesn't fit in box:3
+value [335 158]doesn't fit in box:4
+value [335 158]doesn't fit in box:5
+value [335 158]doesn't fit in box:6
+We need a new box 
+length of Box list is NOW: 8
+Reference list is now: 8
+value [336 159]doesn't fit in box:0
+value [336 159]doesn't fit in box:1
+value [336 159]doesn't fit in box:2
+value [336 159]doesn't fit in box:3
+value [336 159]doesn't fit in box:4
+value [336 159]doesn't fit in box:5
+value [336 159]doesn't fit in box:6
+value [336 159] goes to box: 7
+value [336 189]doesn't fit in box:0
+value [336 189]doesn't fit in box:1
+value [336 189]doesn't fit in box:2
+value [336 189]doesn't fit in box:3
+value [336 189]doesn't fit in box:4
+value [336 189]doesn't fit in box:5
+value [336 189]doesn't fit in box:6
+value [336 189]doesn't fit in box:7
+We need a new box 
+length of Box list is NOW: 9
+Reference list is now: 9
+value [337 190]doesn't fit in box:0
+value [337 190]doesn't fit in box:1
+value [337 190]doesn't fit in box:2
+value [337 190]doesn't fit in box:3
+value [337 190]doesn't fit in box:4
+value [337 190]doesn't fit in box:5
+value [337 190]doesn't fit in box:6
+value [337 190]doesn't fit in box:7
+value [337 190] goes to box: 8
+value [337 204]doesn't fit in box:0
+value [337 204]doesn't fit in box:1
+value [337 204]doesn't fit in box:2
+value [337 204]doesn't fit in box:3
+value [337 204]doesn't fit in box:4
+value [337 204]doesn't fit in box:5
+value [337 204]doesn't fit in box:6
+value [337 204]doesn't fit in box:7
+value [337 204] goes to box: 8
+value [336 205]doesn't fit in box:0
+value [336 205]doesn't fit in box:1
+value [336 205]doesn't fit in box:2
+value [336 205]doesn't fit in box:3
+value [336 205]doesn't fit in box:4
+value [336 205]doesn't fit in box:5
+value [336 205]doesn't fit in box:6
+value [336 205]doesn't fit in box:7
+value [336 205] goes to box: 8
+value [336 213]doesn't fit in box:0
+value [336 213]doesn't fit in box:1
+value [336 213]doesn't fit in box:2
+value [336 213]doesn't fit in box:3
+value [336 213]doesn't fit in box:4
+value [336 213]doesn't fit in box:5
+value [336 213]doesn't fit in box:6
+value [336 213]doesn't fit in box:7
+value [336 213] goes to box: 8
+value [335 214]doesn't fit in box:0
+value [335 214]doesn't fit in box:1
+value [335 214]doesn't fit in box:2
+value [335 214]doesn't fit in box:3
+value [335 214]doesn't fit in box:4
+value [335 214]doesn't fit in box:5
+value [335 214]doesn't fit in box:6
+value [335 214]doesn't fit in box:7
+value [335 214] goes to box: 8
+value [335 226]doesn't fit in box:0
+value [335 226]doesn't fit in box:1
+value [335 226]doesn't fit in box:2
+value [335 226]doesn't fit in box:3
+value [335 226]doesn't fit in box:4
+value [335 226]doesn't fit in box:5
+value [335 226]doesn't fit in box:6
+value [335 226]doesn't fit in box:7
+value [335 226]doesn't fit in box:8
+We need a new box 
+length of Box list is NOW: 10
+Reference list is now: 10
+value [336 227]doesn't fit in box:0
+value [336 227]doesn't fit in box:1
+value [336 227]doesn't fit in box:2
+value [336 227]doesn't fit in box:3
+value [336 227]doesn't fit in box:4
+value [336 227]doesn't fit in box:5
+value [336 227]doesn't fit in box:6
+value [336 227]doesn't fit in box:7
+value [336 227]doesn't fit in box:8
+value [336 227] goes to box: 9
+value [336 234]doesn't fit in box:0
+value [336 234]doesn't fit in box:1
+value [336 234]doesn't fit in box:2
+value [336 234]doesn't fit in box:3
+value [336 234]doesn't fit in box:4
+value [336 234]doesn't fit in box:5
+value [336 234]doesn't fit in box:6
+value [336 234]doesn't fit in box:7
+value [336 234]doesn't fit in box:8
+value [336 234] goes to box: 9
+value [337 235]doesn't fit in box:0
+value [337 235]doesn't fit in box:1
+value [337 235]doesn't fit in box:2
+value [337 235]doesn't fit in box:3
+value [337 235]doesn't fit in box:4
+value [337 235]doesn't fit in box:5
+value [337 235]doesn't fit in box:6
+value [337 235]doesn't fit in box:7
+value [337 235]doesn't fit in box:8
+value [337 235] goes to box: 9
+value [337 244]doesn't fit in box:0
+value [337 244]doesn't fit in box:1
+value [337 244]doesn't fit in box:2
+value [337 244]doesn't fit in box:3
+value [337 244]doesn't fit in box:4
+value [337 244]doesn't fit in box:5
+value [337 244]doesn't fit in box:6
+value [337 244]doesn't fit in box:7
+value [337 244]doesn't fit in box:8
+value [337 244] goes to box: 9
+value [336 245]doesn't fit in box:0
+value [336 245]doesn't fit in box:1
+value [336 245]doesn't fit in box:2
+value [336 245]doesn't fit in box:3
+value [336 245]doesn't fit in box:4
+value [336 245]doesn't fit in box:5
+value [336 245]doesn't fit in box:6
+value [336 245]doesn't fit in box:7
+value [336 245]doesn't fit in box:8
+value [336 245] goes to box: 9
+value [336 259]doesn't fit in box:0
+value [336 259]doesn't fit in box:1
+value [336 259]doesn't fit in box:2
+value [336 259]doesn't fit in box:3
+value [336 259]doesn't fit in box:4
+value [336 259]doesn't fit in box:5
+value [336 259]doesn't fit in box:6
+value [336 259]doesn't fit in box:7
+value [336 259]doesn't fit in box:8
+value [336 259]doesn't fit in box:9
+We need a new box 
+length of Box list is NOW: 11
+Reference list is now: 11
+value [337 260]doesn't fit in box:0
+value [337 260]doesn't fit in box:1
+value [337 260]doesn't fit in box:2
+value [337 260]doesn't fit in box:3
+value [337 260]doesn't fit in box:4
+value [337 260]doesn't fit in box:5
+value [337 260]doesn't fit in box:6
+value [337 260]doesn't fit in box:7
+value [337 260]doesn't fit in box:8
+value [337 260]doesn't fit in box:9
+value [337 260] goes to box: 10
+value [337 264]doesn't fit in box:0
+value [337 264]doesn't fit in box:1
+value [337 264]doesn't fit in box:2
+value [337 264]doesn't fit in box:3
+value [337 264]doesn't fit in box:4
+value [337 264]doesn't fit in box:5
+value [337 264]doesn't fit in box:6
+value [337 264]doesn't fit in box:7
+value [337 264]doesn't fit in box:8
+value [337 264]doesn't fit in box:9
+value [337 264] goes to box: 10
+value [338 265]doesn't fit in box:0
+value [338 265]doesn't fit in box:1
+value [338 265]doesn't fit in box:2
+value [338 265]doesn't fit in box:3
+value [338 265]doesn't fit in box:4
+value [338 265]doesn't fit in box:5
+value [338 265]doesn't fit in box:6
+value [338 265]doesn't fit in box:7
+value [338 265]doesn't fit in box:8
+value [338 265]doesn't fit in box:9
+value [338 265] goes to box: 10
+value [338 269]doesn't fit in box:0
+value [338 269]doesn't fit in box:1
+value [338 269]doesn't fit in box:2
+value [338 269]doesn't fit in box:3
+value [338 269]doesn't fit in box:4
+value [338 269]doesn't fit in box:5
+value [338 269]doesn't fit in box:6
+value [338 269]doesn't fit in box:7
+value [338 269]doesn't fit in box:8
+value [338 269]doesn't fit in box:9
+value [338 269] goes to box: 10
+value [339 270]doesn't fit in box:0
+value [339 270]doesn't fit in box:1
+value [339 270]doesn't fit in box:2
+value [339 270]doesn't fit in box:3
+value [339 270]doesn't fit in box:4
+value [339 270]doesn't fit in box:5
+value [339 270]doesn't fit in box:6
+value [339 270]doesn't fit in box:7
+value [339 270]doesn't fit in box:8
+value [339 270]doesn't fit in box:9
+value [339 270] goes to box: 10
+value [339 272]doesn't fit in box:0
+value [339 272]doesn't fit in box:1
+value [339 272]doesn't fit in box:2
+value [339 272]doesn't fit in box:3
+value [339 272]doesn't fit in box:4
+value [339 272]doesn't fit in box:5
+value [339 272]doesn't fit in box:6
+value [339 272]doesn't fit in box:7
+value [339 272]doesn't fit in box:8
+value [339 272]doesn't fit in box:9
+value [339 272] goes to box: 10
+value [340 273]doesn't fit in box:0
+value [340 273]doesn't fit in box:1
+value [340 273]doesn't fit in box:2
+value [340 273]doesn't fit in box:3
+value [340 273]doesn't fit in box:4
+value [340 273]doesn't fit in box:5
+value [340 273]doesn't fit in box:6
+value [340 273]doesn't fit in box:7
+value [340 273]doesn't fit in box:8
+value [340 273]doesn't fit in box:9
+value [340 273] goes to box: 10
+value [340 275]doesn't fit in box:0
+value [340 275]doesn't fit in box:1
+value [340 275]doesn't fit in box:2
+value [340 275]doesn't fit in box:3
+value [340 275]doesn't fit in box:4
+value [340 275]doesn't fit in box:5
+value [340 275]doesn't fit in box:6
+value [340 275]doesn't fit in box:7
+value [340 275]doesn't fit in box:8
+value [340 275]doesn't fit in box:9
+value [340 275] goes to box: 10
+value [341 276]doesn't fit in box:0
+value [341 276]doesn't fit in box:1
+value [341 276]doesn't fit in box:2
+value [341 276]doesn't fit in box:3
+value [341 276]doesn't fit in box:4
+value [341 276]doesn't fit in box:5
+value [341 276]doesn't fit in box:6
+value [341 276]doesn't fit in box:7
+value [341 276]doesn't fit in box:8
+value [341 276]doesn't fit in box:9
+value [341 276] goes to box: 10
+value [341 278]doesn't fit in box:0
+value [341 278]doesn't fit in box:1
+value [341 278]doesn't fit in box:2
+value [341 278]doesn't fit in box:3
+value [341 278]doesn't fit in box:4
+value [341 278]doesn't fit in box:5
+value [341 278]doesn't fit in box:6
+value [341 278]doesn't fit in box:7
+value [341 278]doesn't fit in box:8
+value [341 278]doesn't fit in box:9
+value [341 278] goes to box: 10
+value [342 279]doesn't fit in box:0
+value [342 279]doesn't fit in box:1
+value [342 279]doesn't fit in box:2
+value [342 279]doesn't fit in box:3
+value [342 279]doesn't fit in box:4
+value [342 279]doesn't fit in box:5
+value [342 279]doesn't fit in box:6
+value [342 279]doesn't fit in box:7
+value [342 279]doesn't fit in box:8
+value [342 279]doesn't fit in box:9
+value [342 279] goes to box: 10
+value [342 284]doesn't fit in box:0
+value [342 284]doesn't fit in box:1
+value [342 284]doesn't fit in box:2
+value [342 284]doesn't fit in box:3
+value [342 284]doesn't fit in box:4
+value [342 284]doesn't fit in box:5
+value [342 284]doesn't fit in box:6
+value [342 284]doesn't fit in box:7
+value [342 284]doesn't fit in box:8
+value [342 284]doesn't fit in box:9
+value [342 284] goes to box: 10
+value [343 285]doesn't fit in box:0
+value [343 285]doesn't fit in box:1
+value [343 285]doesn't fit in box:2
+value [343 285]doesn't fit in box:3
+value [343 285]doesn't fit in box:4
+value [343 285]doesn't fit in box:5
+value [343 285]doesn't fit in box:6
+value [343 285]doesn't fit in box:7
+value [343 285]doesn't fit in box:8
+value [343 285]doesn't fit in box:9
+value [343 285] goes to box: 10
+value [343 289]doesn't fit in box:0
+value [343 289]doesn't fit in box:1
+value [343 289]doesn't fit in box:2
+value [343 289]doesn't fit in box:3
+value [343 289]doesn't fit in box:4
+value [343 289]doesn't fit in box:5
+value [343 289]doesn't fit in box:6
+value [343 289]doesn't fit in box:7
+value [343 289]doesn't fit in box:8
+value [343 289]doesn't fit in box:9
+value [343 289]doesn't fit in box:10
+We need a new box 
+length of Box list is NOW: 12
+Reference list is now: 12
+value [344 290]doesn't fit in box:0
+value [344 290]doesn't fit in box:1
+value [344 290]doesn't fit in box:2
+value [344 290]doesn't fit in box:3
+value [344 290]doesn't fit in box:4
+value [344 290]doesn't fit in box:5
+value [344 290]doesn't fit in box:6
+value [344 290]doesn't fit in box:7
+value [344 290]doesn't fit in box:8
+value [344 290]doesn't fit in box:9
+value [344 290]doesn't fit in box:10
+value [344 290] goes to box: 11
+value [344 295]doesn't fit in box:0
+value [344 295]doesn't fit in box:1
+value [344 295]doesn't fit in box:2
+value [344 295]doesn't fit in box:3
+value [344 295]doesn't fit in box:4
+value [344 295]doesn't fit in box:5
+value [344 295]doesn't fit in box:6
+value [344 295]doesn't fit in box:7
+value [344 295]doesn't fit in box:8
+value [344 295]doesn't fit in box:9
+value [344 295]doesn't fit in box:10
+value [344 295] goes to box: 11
+value [345 296]doesn't fit in box:0
+value [345 296]doesn't fit in box:1
+value [345 296]doesn't fit in box:2
+value [345 296]doesn't fit in box:3
+value [345 296]doesn't fit in box:4
+value [345 296]doesn't fit in box:5
+value [345 296]doesn't fit in box:6
+value [345 296]doesn't fit in box:7
+value [345 296]doesn't fit in box:8
+value [345 296]doesn't fit in box:9
+value [345 296]doesn't fit in box:10
+value [345 296] goes to box: 11
+value [345 307]doesn't fit in box:0
+value [345 307]doesn't fit in box:1
+value [345 307]doesn't fit in box:2
+value [345 307]doesn't fit in box:3
+value [345 307]doesn't fit in box:4
+value [345 307]doesn't fit in box:5
+value [345 307]doesn't fit in box:6
+value [345 307]doesn't fit in box:7
+value [345 307]doesn't fit in box:8
+value [345 307]doesn't fit in box:9
+value [345 307]doesn't fit in box:10
+value [345 307] goes to box: 11
+value [346 308]doesn't fit in box:0
+value [346 308]doesn't fit in box:1
+value [346 308]doesn't fit in box:2
+value [346 308]doesn't fit in box:3
+value [346 308]doesn't fit in box:4
+value [346 308]doesn't fit in box:5
+value [346 308]doesn't fit in box:6
+value [346 308]doesn't fit in box:7
+value [346 308]doesn't fit in box:8
+value [346 308]doesn't fit in box:9
+value [346 308]doesn't fit in box:10
+value [346 308] goes to box: 11
+value [346 314]doesn't fit in box:0
+value [346 314]doesn't fit in box:1
+value [346 314]doesn't fit in box:2
+value [346 314]doesn't fit in box:3
+value [346 314]doesn't fit in box:4
+value [346 314]doesn't fit in box:5
+value [346 314]doesn't fit in box:6
+value [346 314]doesn't fit in box:7
+value [346 314]doesn't fit in box:8
+value [346 314]doesn't fit in box:9
+value [346 314]doesn't fit in box:10
+value [346 314] goes to box: 11
+value [347 315]doesn't fit in box:0
+value [347 315]doesn't fit in box:1
+value [347 315]doesn't fit in box:2
+value [347 315]doesn't fit in box:3
+value [347 315]doesn't fit in box:4
+value [347 315]doesn't fit in box:5
+value [347 315]doesn't fit in box:6
+value [347 315]doesn't fit in box:7
+value [347 315]doesn't fit in box:8
+value [347 315]doesn't fit in box:9
+value [347 315]doesn't fit in box:10
+value [347 315] goes to box: 11
+value [347 317]doesn't fit in box:0
+value [347 317]doesn't fit in box:1
+value [347 317]doesn't fit in box:2
+value [347 317]doesn't fit in box:3
+value [347 317]doesn't fit in box:4
+value [347 317]doesn't fit in box:5
+value [347 317]doesn't fit in box:6
+value [347 317]doesn't fit in box:7
+value [347 317]doesn't fit in box:8
+value [347 317]doesn't fit in box:9
+value [347 317]doesn't fit in box:10
+value [347 317] goes to box: 11
+value [348 318]doesn't fit in box:0
+value [348 318]doesn't fit in box:1
+value [348 318]doesn't fit in box:2
+value [348 318]doesn't fit in box:3
+value [348 318]doesn't fit in box:4
+value [348 318]doesn't fit in box:5
+value [348 318]doesn't fit in box:6
+value [348 318]doesn't fit in box:7
+value [348 318]doesn't fit in box:8
+value [348 318]doesn't fit in box:9
+value [348 318]doesn't fit in box:10
+value [348 318] goes to box: 11
+value [348 320]doesn't fit in box:0
+value [348 320]doesn't fit in box:1
+value [348 320]doesn't fit in box:2
+value [348 320]doesn't fit in box:3
+value [348 320]doesn't fit in box:4
+value [348 320]doesn't fit in box:5
+value [348 320]doesn't fit in box:6
+value [348 320]doesn't fit in box:7
+value [348 320]doesn't fit in box:8
+value [348 320]doesn't fit in box:9
+value [348 320]doesn't fit in box:10
+value [348 320]doesn't fit in box:11
+We need a new box 
+length of Box list is NOW: 13
+Reference list is now: 13
+value [349 321]doesn't fit in box:0
+value [349 321]doesn't fit in box:1
+value [349 321]doesn't fit in box:2
+value [349 321]doesn't fit in box:3
+value [349 321]doesn't fit in box:4
+value [349 321]doesn't fit in box:5
+value [349 321]doesn't fit in box:6
+value [349 321]doesn't fit in box:7
+value [349 321]doesn't fit in box:8
+value [349 321]doesn't fit in box:9
+value [349 321]doesn't fit in box:10
+value [349 321]doesn't fit in box:11
+value [349 321] goes to box: 12
+value [349 322]doesn't fit in box:0
+value [349 322]doesn't fit in box:1
+value [349 322]doesn't fit in box:2
+value [349 322]doesn't fit in box:3
+value [349 322]doesn't fit in box:4
+value [349 322]doesn't fit in box:5
+value [349 322]doesn't fit in box:6
+value [349 322]doesn't fit in box:7
+value [349 322]doesn't fit in box:8
+value [349 322]doesn't fit in box:9
+value [349 322]doesn't fit in box:10
+value [349 322]doesn't fit in box:11
+value [349 322] goes to box: 12
+value [354 327]doesn't fit in box:0
+value [354 327]doesn't fit in box:1
+value [354 327]doesn't fit in box:2
+value [354 327]doesn't fit in box:3
+value [354 327]doesn't fit in box:4
+value [354 327]doesn't fit in box:5
+value [354 327]doesn't fit in box:6
+value [354 327]doesn't fit in box:7
+value [354 327]doesn't fit in box:8
+value [354 327]doesn't fit in box:9
+value [354 327]doesn't fit in box:10
+value [354 327]doesn't fit in box:11
+value [354 327] goes to box: 12
+value [357 327]doesn't fit in box:0
+value [357 327]doesn't fit in box:1
+value [357 327]doesn't fit in box:2
+value [357 327]doesn't fit in box:3
+value [357 327]doesn't fit in box:4
+value [357 327]doesn't fit in box:5
+value [357 327]doesn't fit in box:6
+value [357 327]doesn't fit in box:7
+value [357 327]doesn't fit in box:8
+value [357 327]doesn't fit in box:9
+value [357 327]doesn't fit in box:10
+value [357 327]doesn't fit in box:11
+value [357 327] goes to box: 12
+value [359 325]doesn't fit in box:0
+value [359 325]doesn't fit in box:1
+value [359 325]doesn't fit in box:2
+value [359 325]doesn't fit in box:3
+value [359 325]doesn't fit in box:4
+value [359 325]doesn't fit in box:5
+value [359 325]doesn't fit in box:6
+value [359 325]doesn't fit in box:7
+value [359 325]doesn't fit in box:8
+value [359 325]doesn't fit in box:9
+value [359 325]doesn't fit in box:10
+value [359 325]doesn't fit in box:11
+value [359 325] goes to box: 12
+value [359 321]doesn't fit in box:0
+value [359 321]doesn't fit in box:1
+value [359 321]doesn't fit in box:2
+value [359 321]doesn't fit in box:3
+value [359 321]doesn't fit in box:4
+value [359 321]doesn't fit in box:5
+value [359 321]doesn't fit in box:6
+value [359 321]doesn't fit in box:7
+value [359 321]doesn't fit in box:8
+value [359 321]doesn't fit in box:9
+value [359 321]doesn't fit in box:10
+value [359 321]doesn't fit in box:11
+value [359 321] goes to box: 12
+value [358 320]doesn't fit in box:0
+value [358 320]doesn't fit in box:1
+value [358 320]doesn't fit in box:2
+value [358 320]doesn't fit in box:3
+value [358 320]doesn't fit in box:4
+value [358 320]doesn't fit in box:5
+value [358 320]doesn't fit in box:6
+value [358 320]doesn't fit in box:7
+value [358 320]doesn't fit in box:8
+value [358 320]doesn't fit in box:9
+value [358 320]doesn't fit in box:10
+value [358 320]doesn't fit in box:11
+value [358 320] goes to box: 12
+value [358 319]doesn't fit in box:0
+value [358 319]doesn't fit in box:1
+value [358 319]doesn't fit in box:2
+value [358 319]doesn't fit in box:3
+value [358 319]doesn't fit in box:4
+value [358 319]doesn't fit in box:5
+value [358 319]doesn't fit in box:6
+value [358 319]doesn't fit in box:7
+value [358 319]doesn't fit in box:8
+value [358 319]doesn't fit in box:9
+value [358 319]doesn't fit in box:10
+value [358 319]doesn't fit in box:11
+value [358 319] goes to box: 12
+value [357 318]doesn't fit in box:0
+value [357 318]doesn't fit in box:1
+value [357 318]doesn't fit in box:2
+value [357 318]doesn't fit in box:3
+value [357 318]doesn't fit in box:4
+value [357 318]doesn't fit in box:5
+value [357 318]doesn't fit in box:6
+value [357 318]doesn't fit in box:7
+value [357 318]doesn't fit in box:8
+value [357 318]doesn't fit in box:9
+value [357 318]doesn't fit in box:10
+value [357 318] goes to box: 11
+value [357 318] goes to box: 12
+value [357 317]doesn't fit in box:0
+value [357 317]doesn't fit in box:1
+value [357 317]doesn't fit in box:2
+value [357 317]doesn't fit in box:3
+value [357 317]doesn't fit in box:4
+value [357 317]doesn't fit in box:5
+value [357 317]doesn't fit in box:6
+value [357 317]doesn't fit in box:7
+value [357 317]doesn't fit in box:8
+value [357 317]doesn't fit in box:9
+value [357 317]doesn't fit in box:10
+value [357 317] goes to box: 11
+value [357 317] goes to box: 12
+value [356 316]doesn't fit in box:0
+value [356 316]doesn't fit in box:1
+value [356 316]doesn't fit in box:2
+value [356 316]doesn't fit in box:3
+value [356 316]doesn't fit in box:4
+value [356 316]doesn't fit in box:5
+value [356 316]doesn't fit in box:6
+value [356 316]doesn't fit in box:7
+value [356 316]doesn't fit in box:8
+value [356 316]doesn't fit in box:9
+value [356 316]doesn't fit in box:10
+value [356 316] goes to box: 11
+value [356 316] goes to box: 12
+value [356 313]doesn't fit in box:0
+value [356 313]doesn't fit in box:1
+value [356 313]doesn't fit in box:2
+value [356 313]doesn't fit in box:3
+value [356 313]doesn't fit in box:4
+value [356 313]doesn't fit in box:5
+value [356 313]doesn't fit in box:6
+value [356 313]doesn't fit in box:7
+value [356 313]doesn't fit in box:8
+value [356 313]doesn't fit in box:9
+value [356 313]doesn't fit in box:10
+value [356 313] goes to box: 11
+value [356 313] goes to box: 12
+value [355 312]doesn't fit in box:0
+value [355 312]doesn't fit in box:1
+value [355 312]doesn't fit in box:2
+value [355 312]doesn't fit in box:3
+value [355 312]doesn't fit in box:4
+value [355 312]doesn't fit in box:5
+value [355 312]doesn't fit in box:6
+value [355 312]doesn't fit in box:7
+value [355 312]doesn't fit in box:8
+value [355 312]doesn't fit in box:9
+value [355 312]doesn't fit in box:10
+value [355 312] goes to box: 11
+value [355 312] goes to box: 12
+value [355 307]doesn't fit in box:0
+value [355 307]doesn't fit in box:1
+value [355 307]doesn't fit in box:2
+value [355 307]doesn't fit in box:3
+value [355 307]doesn't fit in box:4
+value [355 307]doesn't fit in box:5
+value [355 307]doesn't fit in box:6
+value [355 307]doesn't fit in box:7
+value [355 307]doesn't fit in box:8
+value [355 307]doesn't fit in box:9
+value [355 307]doesn't fit in box:10
+value [355 307] goes to box: 11
+value [355 307] goes to box: 12
+value [354 306]doesn't fit in box:0
+value [354 306]doesn't fit in box:1
+value [354 306]doesn't fit in box:2
+value [354 306]doesn't fit in box:3
+value [354 306]doesn't fit in box:4
+value [354 306]doesn't fit in box:5
+value [354 306]doesn't fit in box:6
+value [354 306]doesn't fit in box:7
+value [354 306]doesn't fit in box:8
+value [354 306]doesn't fit in box:9
+value [354 306]doesn't fit in box:10
+value [354 306] goes to box: 11
+value [354 306] goes to box: 12
+value [354 298]doesn't fit in box:0
+value [354 298]doesn't fit in box:1
+value [354 298]doesn't fit in box:2
+value [354 298]doesn't fit in box:3
+value [354 298]doesn't fit in box:4
+value [354 298]doesn't fit in box:5
+value [354 298]doesn't fit in box:6
+value [354 298]doesn't fit in box:7
+value [354 298]doesn't fit in box:8
+value [354 298]doesn't fit in box:9
+value [354 298]doesn't fit in box:10
+value [354 298] goes to box: 11
+value [354 298] goes to box: 12
+value [353 297]doesn't fit in box:0
+value [353 297]doesn't fit in box:1
+value [353 297]doesn't fit in box:2
+value [353 297]doesn't fit in box:3
+value [353 297]doesn't fit in box:4
+value [353 297]doesn't fit in box:5
+value [353 297]doesn't fit in box:6
+value [353 297]doesn't fit in box:7
+value [353 297]doesn't fit in box:8
+value [353 297]doesn't fit in box:9
+value [353 297]doesn't fit in box:10
+value [353 297] goes to box: 11
+value [353 297] goes to box: 12
+value [353 293]doesn't fit in box:0
+value [353 293]doesn't fit in box:1
+value [353 293]doesn't fit in box:2
+value [353 293]doesn't fit in box:3
+value [353 293]doesn't fit in box:4
+value [353 293]doesn't fit in box:5
+value [353 293]doesn't fit in box:6
+value [353 293]doesn't fit in box:7
+value [353 293]doesn't fit in box:8
+value [353 293]doesn't fit in box:9
+value [353 293]doesn't fit in box:10
+value [353 293] goes to box: 11
+value [353 293] goes to box: 12
+value [352 292]doesn't fit in box:0
+value [352 292]doesn't fit in box:1
+value [352 292]doesn't fit in box:2
+value [352 292]doesn't fit in box:3
+value [352 292]doesn't fit in box:4
+value [352 292]doesn't fit in box:5
+value [352 292]doesn't fit in box:6
+value [352 292]doesn't fit in box:7
+value [352 292]doesn't fit in box:8
+value [352 292]doesn't fit in box:9
+value [352 292]doesn't fit in box:10
+value [352 292] goes to box: 11
+value [352 292] goes to box: 12
+value [352 287]doesn't fit in box:0
+value [352 287]doesn't fit in box:1
+value [352 287]doesn't fit in box:2
+value [352 287]doesn't fit in box:3
+value [352 287]doesn't fit in box:4
+value [352 287]doesn't fit in box:5
+value [352 287]doesn't fit in box:6
+value [352 287]doesn't fit in box:7
+value [352 287]doesn't fit in box:8
+value [352 287]doesn't fit in box:9
+value [352 287] goes to box: 10
+value [352 287] goes to box: 11
+value [352 287]doesn't fit in box:12
+value [351 286]doesn't fit in box:0
+value [351 286]doesn't fit in box:1
+value [351 286]doesn't fit in box:2
+value [351 286]doesn't fit in box:3
+value [351 286]doesn't fit in box:4
+value [351 286]doesn't fit in box:5
+value [351 286]doesn't fit in box:6
+value [351 286]doesn't fit in box:7
+value [351 286]doesn't fit in box:8
+value [351 286]doesn't fit in box:9
+value [351 286] goes to box: 10
+value [351 286] goes to box: 11
+value [351 286]doesn't fit in box:12
+value [351 282]doesn't fit in box:0
+value [351 282]doesn't fit in box:1
+value [351 282]doesn't fit in box:2
+value [351 282]doesn't fit in box:3
+value [351 282]doesn't fit in box:4
+value [351 282]doesn't fit in box:5
+value [351 282]doesn't fit in box:6
+value [351 282]doesn't fit in box:7
+value [351 282]doesn't fit in box:8
+value [351 282]doesn't fit in box:9
+value [351 282] goes to box: 10
+value [351 282] goes to box: 11
+value [351 282]doesn't fit in box:12
+value [350 281]doesn't fit in box:0
+value [350 281]doesn't fit in box:1
+value [350 281]doesn't fit in box:2
+value [350 281]doesn't fit in box:3
+value [350 281]doesn't fit in box:4
+value [350 281]doesn't fit in box:5
+value [350 281]doesn't fit in box:6
+value [350 281]doesn't fit in box:7
+value [350 281]doesn't fit in box:8
+value [350 281]doesn't fit in box:9
+value [350 281] goes to box: 10
+value [350 281] goes to box: 11
+value [350 281]doesn't fit in box:12
+value [350 278]doesn't fit in box:0
+value [350 278]doesn't fit in box:1
+value [350 278]doesn't fit in box:2
+value [350 278]doesn't fit in box:3
+value [350 278]doesn't fit in box:4
+value [350 278]doesn't fit in box:5
+value [350 278]doesn't fit in box:6
+value [350 278]doesn't fit in box:7
+value [350 278]doesn't fit in box:8
+value [350 278]doesn't fit in box:9
+value [350 278] goes to box: 10
+value [350 278] goes to box: 11
+value [350 278]doesn't fit in box:12
+value [349 277]doesn't fit in box:0
+value [349 277]doesn't fit in box:1
+value [349 277]doesn't fit in box:2
+value [349 277]doesn't fit in box:3
+value [349 277]doesn't fit in box:4
+value [349 277]doesn't fit in box:5
+value [349 277]doesn't fit in box:6
+value [349 277]doesn't fit in box:7
+value [349 277]doesn't fit in box:8
+value [349 277]doesn't fit in box:9
+value [349 277] goes to box: 10
+value [349 277] goes to box: 11
+value [349 277]doesn't fit in box:12
+value [349 274]doesn't fit in box:0
+value [349 274]doesn't fit in box:1
+value [349 274]doesn't fit in box:2
+value [349 274]doesn't fit in box:3
+value [349 274]doesn't fit in box:4
+value [349 274]doesn't fit in box:5
+value [349 274]doesn't fit in box:6
+value [349 274]doesn't fit in box:7
+value [349 274]doesn't fit in box:8
+value [349 274]doesn't fit in box:9
+value [349 274] goes to box: 10
+value [349 274] goes to box: 11
+value [349 274]doesn't fit in box:12
+value [348 273]doesn't fit in box:0
+value [348 273]doesn't fit in box:1
+value [348 273]doesn't fit in box:2
+value [348 273]doesn't fit in box:3
+value [348 273]doesn't fit in box:4
+value [348 273]doesn't fit in box:5
+value [348 273]doesn't fit in box:6
+value [348 273]doesn't fit in box:7
+value [348 273]doesn't fit in box:8
+value [348 273]doesn't fit in box:9
+value [348 273] goes to box: 10
+value [348 273] goes to box: 11
+value [348 273]doesn't fit in box:12
+value [348 271]doesn't fit in box:0
+value [348 271]doesn't fit in box:1
+value [348 271]doesn't fit in box:2
+value [348 271]doesn't fit in box:3
+value [348 271]doesn't fit in box:4
+value [348 271]doesn't fit in box:5
+value [348 271]doesn't fit in box:6
+value [348 271]doesn't fit in box:7
+value [348 271]doesn't fit in box:8
+value [348 271]doesn't fit in box:9
+value [348 271] goes to box: 10
+value [348 271] goes to box: 11
+value [348 271]doesn't fit in box:12
+value [347 270]doesn't fit in box:0
+value [347 270]doesn't fit in box:1
+value [347 270]doesn't fit in box:2
+value [347 270]doesn't fit in box:3
+value [347 270]doesn't fit in box:4
+value [347 270]doesn't fit in box:5
+value [347 270]doesn't fit in box:6
+value [347 270]doesn't fit in box:7
+value [347 270]doesn't fit in box:8
+value [347 270]doesn't fit in box:9
+value [347 270] goes to box: 10
+value [347 270] goes to box: 11
+value [347 270]doesn't fit in box:12
+value [347 268]doesn't fit in box:0
+value [347 268]doesn't fit in box:1
+value [347 268]doesn't fit in box:2
+value [347 268]doesn't fit in box:3
+value [347 268]doesn't fit in box:4
+value [347 268]doesn't fit in box:5
+value [347 268]doesn't fit in box:6
+value [347 268]doesn't fit in box:7
+value [347 268]doesn't fit in box:8
+value [347 268]doesn't fit in box:9
+value [347 268] goes to box: 10
+value [347 268] goes to box: 11
+value [347 268]doesn't fit in box:12
+value [346 267]doesn't fit in box:0
+value [346 267]doesn't fit in box:1
+value [346 267]doesn't fit in box:2
+value [346 267]doesn't fit in box:3
+value [346 267]doesn't fit in box:4
+value [346 267]doesn't fit in box:5
+value [346 267]doesn't fit in box:6
+value [346 267]doesn't fit in box:7
+value [346 267]doesn't fit in box:8
+value [346 267]doesn't fit in box:9
+value [346 267] goes to box: 10
+value [346 267] goes to box: 11
+value [346 267]doesn't fit in box:12
+value [346 264]doesn't fit in box:0
+value [346 264]doesn't fit in box:1
+value [346 264]doesn't fit in box:2
+value [346 264]doesn't fit in box:3
+value [346 264]doesn't fit in box:4
+value [346 264]doesn't fit in box:5
+value [346 264]doesn't fit in box:6
+value [346 264]doesn't fit in box:7
+value [346 264]doesn't fit in box:8
+value [346 264]doesn't fit in box:9
+value [346 264] goes to box: 10
+value [346 264] goes to box: 11
+value [346 264]doesn't fit in box:12
+value [345 263]doesn't fit in box:0
+value [345 263]doesn't fit in box:1
+value [345 263]doesn't fit in box:2
+value [345 263]doesn't fit in box:3
+value [345 263]doesn't fit in box:4
+value [345 263]doesn't fit in box:5
+value [345 263]doesn't fit in box:6
+value [345 263]doesn't fit in box:7
+value [345 263]doesn't fit in box:8
+value [345 263]doesn't fit in box:9
+value [345 263] goes to box: 10
+value [345 263] goes to box: 11
+value [345 263]doesn't fit in box:12
+value [345 259]doesn't fit in box:0
+value [345 259]doesn't fit in box:1
+value [345 259]doesn't fit in box:2
+value [345 259]doesn't fit in box:3
+value [345 259]doesn't fit in box:4
+value [345 259]doesn't fit in box:5
+value [345 259]doesn't fit in box:6
+value [345 259]doesn't fit in box:7
+value [345 259]doesn't fit in box:8
+value [345 259]doesn't fit in box:9
+value [345 259] goes to box: 10
+value [345 259]doesn't fit in box:11
+value [345 259]doesn't fit in box:12
+value [344 258]doesn't fit in box:0
+value [344 258]doesn't fit in box:1
+value [344 258]doesn't fit in box:2
+value [344 258]doesn't fit in box:3
+value [344 258]doesn't fit in box:4
+value [344 258]doesn't fit in box:5
+value [344 258]doesn't fit in box:6
+value [344 258]doesn't fit in box:7
+value [344 258]doesn't fit in box:8
+value [344 258]doesn't fit in box:9
+value [344 258] goes to box: 10
+value [344 258]doesn't fit in box:11
+value [344 258]doesn't fit in box:12
+value [344 252]doesn't fit in box:0
+value [344 252]doesn't fit in box:1
+value [344 252]doesn't fit in box:2
+value [344 252]doesn't fit in box:3
+value [344 252]doesn't fit in box:4
+value [344 252]doesn't fit in box:5
+value [344 252]doesn't fit in box:6
+value [344 252]doesn't fit in box:7
+value [344 252]doesn't fit in box:8
+value [344 252] goes to box: 9
+value [344 252] goes to box: 10
+value [344 252]doesn't fit in box:11
+value [344 252]doesn't fit in box:12
+value [345 251]doesn't fit in box:0
+value [345 251]doesn't fit in box:1
+value [345 251]doesn't fit in box:2
+value [345 251]doesn't fit in box:3
+value [345 251]doesn't fit in box:4
+value [345 251]doesn't fit in box:5
+value [345 251]doesn't fit in box:6
+value [345 251]doesn't fit in box:7
+value [345 251]doesn't fit in box:8
+value [345 251] goes to box: 9
+value [345 251] goes to box: 10
+value [345 251]doesn't fit in box:11
+value [345 251]doesn't fit in box:12
+value [345 232]doesn't fit in box:0
+value [345 232]doesn't fit in box:1
+value [345 232]doesn't fit in box:2
+value [345 232]doesn't fit in box:3
+value [345 232]doesn't fit in box:4
+value [345 232]doesn't fit in box:5
+value [345 232]doesn't fit in box:6
+value [345 232]doesn't fit in box:7
+value [345 232]doesn't fit in box:8
+value [345 232] goes to box: 9
+value [345 232] goes to box: 10
+value [345 232]doesn't fit in box:11
+value [345 232]doesn't fit in box:12
+value [344 231]doesn't fit in box:0
+value [344 231]doesn't fit in box:1
+value [344 231]doesn't fit in box:2
+value [344 231]doesn't fit in box:3
+value [344 231]doesn't fit in box:4
+value [344 231]doesn't fit in box:5
+value [344 231]doesn't fit in box:6
+value [344 231]doesn't fit in box:7
+value [344 231]doesn't fit in box:8
+value [344 231] goes to box: 9
+value [344 231] goes to box: 10
+value [344 231]doesn't fit in box:11
+value [344 231]doesn't fit in box:12
+value [344 225]doesn't fit in box:0
+value [344 225]doesn't fit in box:1
+value [344 225]doesn't fit in box:2
+value [344 225]doesn't fit in box:3
+value [344 225]doesn't fit in box:4
+value [344 225]doesn't fit in box:5
+value [344 225]doesn't fit in box:6
+value [344 225]doesn't fit in box:7
+value [344 225]doesn't fit in box:8
+value [344 225] goes to box: 9
+value [344 225]doesn't fit in box:10
+value [344 225]doesn't fit in box:11
+value [344 225]doesn't fit in box:12
+value [343 224]doesn't fit in box:0
+value [343 224]doesn't fit in box:1
+value [343 224]doesn't fit in box:2
+value [343 224]doesn't fit in box:3
+value [343 224]doesn't fit in box:4
+value [343 224]doesn't fit in box:5
+value [343 224]doesn't fit in box:6
+value [343 224]doesn't fit in box:7
+value [343 224]doesn't fit in box:8
+value [343 224] goes to box: 9
+value [343 224]doesn't fit in box:10
+value [343 224]doesn't fit in box:11
+value [343 224]doesn't fit in box:12
+value [343 214]doesn't fit in box:0
+value [343 214]doesn't fit in box:1
+value [343 214]doesn't fit in box:2
+value [343 214]doesn't fit in box:3
+value [343 214]doesn't fit in box:4
+value [343 214]doesn't fit in box:5
+value [343 214]doesn't fit in box:6
+value [343 214]doesn't fit in box:7
+value [343 214] goes to box: 8
+value [343 214] goes to box: 9
+value [343 214]doesn't fit in box:10
+value [343 214]doesn't fit in box:11
+value [343 214]doesn't fit in box:12
+value [344 213]doesn't fit in box:0
+value [344 213]doesn't fit in box:1
+value [344 213]doesn't fit in box:2
+value [344 213]doesn't fit in box:3
+value [344 213]doesn't fit in box:4
+value [344 213]doesn't fit in box:5
+value [344 213]doesn't fit in box:6
+value [344 213]doesn't fit in box:7
+value [344 213] goes to box: 8
+value [344 213] goes to box: 9
+value [344 213]doesn't fit in box:10
+value [344 213]doesn't fit in box:11
+value [344 213]doesn't fit in box:12
+value [344 207]doesn't fit in box:0
+value [344 207]doesn't fit in box:1
+value [344 207]doesn't fit in box:2
+value [344 207]doesn't fit in box:3
+value [344 207]doesn't fit in box:4
+value [344 207]doesn't fit in box:5
+value [344 207]doesn't fit in box:6
+value [344 207]doesn't fit in box:7
+value [344 207] goes to box: 8
+value [344 207] goes to box: 9
+value [344 207]doesn't fit in box:10
+value [344 207]doesn't fit in box:11
+value [344 207]doesn't fit in box:12
+value [345 206]doesn't fit in box:0
+value [345 206]doesn't fit in box:1
+value [345 206]doesn't fit in box:2
+value [345 206]doesn't fit in box:3
+value [345 206]doesn't fit in box:4
+value [345 206]doesn't fit in box:5
+value [345 206]doesn't fit in box:6
+value [345 206]doesn't fit in box:7
+value [345 206] goes to box: 8
+value [345 206] goes to box: 9
+value [345 206]doesn't fit in box:10
+value [345 206]doesn't fit in box:11
+value [345 206]doesn't fit in box:12
+value [345 189]doesn't fit in box:0
+value [345 189]doesn't fit in box:1
+value [345 189]doesn't fit in box:2
+value [345 189]doesn't fit in box:3
+value [345 189]doesn't fit in box:4
+value [345 189]doesn't fit in box:5
+value [345 189]doesn't fit in box:6
+value [345 189]doesn't fit in box:7
+value [345 189] goes to box: 8
+value [345 189]doesn't fit in box:9
+value [345 189]doesn't fit in box:10
+value [345 189]doesn't fit in box:11
+value [345 189]doesn't fit in box:12
+value [344 188]doesn't fit in box:0
+value [344 188]doesn't fit in box:1
+value [344 188]doesn't fit in box:2
+value [344 188]doesn't fit in box:3
+value [344 188]doesn't fit in box:4
+value [344 188]doesn't fit in box:5
+value [344 188]doesn't fit in box:6
+value [344 188]doesn't fit in box:7
+value [344 188] goes to box: 8
+value [344 188]doesn't fit in box:9
+value [344 188]doesn't fit in box:10
+value [344 188]doesn't fit in box:11
+value [344 188]doesn't fit in box:12
+value [344 166]doesn't fit in box:0
+value [344 166]doesn't fit in box:1
+value [344 166]doesn't fit in box:2
+value [344 166]doesn't fit in box:3
+value [344 166]doesn't fit in box:4
+value [344 166]doesn't fit in box:5
+value [344 166]doesn't fit in box:6
+value [344 166] goes to box: 7
+value [344 166] goes to box: 8
+value [344 166]doesn't fit in box:9
+value [344 166]doesn't fit in box:10
+value [344 166]doesn't fit in box:11
+value [344 166]doesn't fit in box:12
+value [343 165]doesn't fit in box:0
+value [343 165]doesn't fit in box:1
+value [343 165]doesn't fit in box:2
+value [343 165]doesn't fit in box:3
+value [343 165]doesn't fit in box:4
+value [343 165]doesn't fit in box:5
+value [343 165]doesn't fit in box:6
+value [343 165] goes to box: 7
+value [343 165] goes to box: 8
+value [343 165]doesn't fit in box:9
+value [343 165]doesn't fit in box:10
+value [343 165]doesn't fit in box:11
+value [343 165]doesn't fit in box:12
+value [343 146]doesn't fit in box:0
+value [343 146]doesn't fit in box:1
+value [343 146]doesn't fit in box:2
+value [343 146]doesn't fit in box:3
+value [343 146]doesn't fit in box:4
+value [343 146]doesn't fit in box:5
+value [343 146] goes to box: 6
+value [343 146] goes to box: 7
+value [343 146]doesn't fit in box:8
+value [343 146]doesn't fit in box:9
+value [343 146]doesn't fit in box:10
+value [343 146]doesn't fit in box:11
+value [343 146]doesn't fit in box:12
+value [342 145]doesn't fit in box:0
+value [342 145]doesn't fit in box:1
+value [342 145]doesn't fit in box:2
+value [342 145]doesn't fit in box:3
+value [342 145]doesn't fit in box:4
+value [342 145]doesn't fit in box:5
+value [342 145] goes to box: 6
+value [342 145] goes to box: 7
+value [342 145]doesn't fit in box:8
+value [342 145]doesn't fit in box:9
+value [342 145]doesn't fit in box:10
+value [342 145]doesn't fit in box:11
+value [342 145]doesn't fit in box:12
+value [342 135]doesn't fit in box:0
+value [342 135]doesn't fit in box:1
+value [342 135]doesn't fit in box:2
+value [342 135]doesn't fit in box:3
+value [342 135]doesn't fit in box:4
+value [342 135]doesn't fit in box:5
+value [342 135] goes to box: 6
+value [342 135] goes to box: 7
+value [342 135]doesn't fit in box:8
+value [342 135]doesn't fit in box:9
+value [342 135]doesn't fit in box:10
+value [342 135]doesn't fit in box:11
+value [342 135]doesn't fit in box:12
+value [341 134]doesn't fit in box:0
+value [341 134]doesn't fit in box:1
+value [341 134]doesn't fit in box:2
+value [341 134]doesn't fit in box:3
+value [341 134]doesn't fit in box:4
+value [341 134]doesn't fit in box:5
+value [341 134] goes to box: 6
+value [341 134] goes to box: 7
+value [341 134]doesn't fit in box:8
+value [341 134]doesn't fit in box:9
+value [341 134]doesn't fit in box:10
+value [341 134]doesn't fit in box:11
+value [341 134]doesn't fit in box:12
+value [341 130]doesn't fit in box:0
+value [341 130]doesn't fit in box:1
+value [341 130]doesn't fit in box:2
+value [341 130]doesn't fit in box:3
+value [341 130]doesn't fit in box:4
+value [341 130]doesn't fit in box:5
+value [341 130] goes to box: 6
+value [341 130] goes to box: 7
+value [341 130]doesn't fit in box:8
+value [341 130]doesn't fit in box:9
+value [341 130]doesn't fit in box:10
+value [341 130]doesn't fit in box:11
+value [341 130]doesn't fit in box:12
+value [342 129]doesn't fit in box:0
+value [342 129]doesn't fit in box:1
+value [342 129]doesn't fit in box:2
+value [342 129]doesn't fit in box:3
+value [342 129]doesn't fit in box:4
+value [342 129]doesn't fit in box:5
+value [342 129] goes to box: 6
+value [342 129] goes to box: 7
+value [342 129]doesn't fit in box:8
+value [342 129]doesn't fit in box:9
+value [342 129]doesn't fit in box:10
+value [342 129]doesn't fit in box:11
+value [342 129]doesn't fit in box:12
+value [342  97]doesn't fit in box:0
+value [342  97]doesn't fit in box:1
+value [342  97]doesn't fit in box:2
+value [342  97]doesn't fit in box:3
+value [342  97]doesn't fit in box:4
+value [342  97] goes to box: 5
+value [342  97] goes to box: 6
+value [342  97]doesn't fit in box:7
+value [342  97]doesn't fit in box:8
+value [342  97]doesn't fit in box:9
+value [342  97]doesn't fit in box:10
+value [342  97]doesn't fit in box:11
+value [342  97]doesn't fit in box:12
+value [341  96]doesn't fit in box:0
+value [341  96]doesn't fit in box:1
+value [341  96]doesn't fit in box:2
+value [341  96]doesn't fit in box:3
+value [341  96]doesn't fit in box:4
+value [341  96] goes to box: 5
+value [341  96]doesn't fit in box:6
+value [341  96]doesn't fit in box:7
+value [341  96]doesn't fit in box:8
+value [341  96]doesn't fit in box:9
+value [341  96]doesn't fit in box:10
+value [341  96]doesn't fit in box:11
+value [341  96]doesn't fit in box:12
+value [341  83]doesn't fit in box:0
+value [341  83]doesn't fit in box:1
+value [341  83]doesn't fit in box:2
+value [341  83]doesn't fit in box:3
+value [341  83] goes to box: 4
+value [341  83] goes to box: 5
+value [341  83]doesn't fit in box:6
+value [341  83]doesn't fit in box:7
+value [341  83]doesn't fit in box:8
+value [341  83]doesn't fit in box:9
+value [341  83]doesn't fit in box:10
+value [341  83]doesn't fit in box:11
+value [341  83]doesn't fit in box:12
+value [340  82]doesn't fit in box:0
+value [340  82]doesn't fit in box:1
+value [340  82]doesn't fit in box:2
+value [340  82]doesn't fit in box:3
+value [340  82] goes to box: 4
+value [340  82] goes to box: 5
+value [340  82]doesn't fit in box:6
+value [340  82]doesn't fit in box:7
+value [340  82]doesn't fit in box:8
+value [340  82]doesn't fit in box:9
+value [340  82]doesn't fit in box:10
+value [340  82]doesn't fit in box:11
+value [340  82]doesn't fit in box:12
+value [340  79]doesn't fit in box:0
+value [340  79]doesn't fit in box:1
+value [340  79]doesn't fit in box:2
+value [340  79]doesn't fit in box:3
+value [340  79] goes to box: 4
+value [340  79] goes to box: 5
+value [340  79]doesn't fit in box:6
+value [340  79]doesn't fit in box:7
+value [340  79]doesn't fit in box:8
+value [340  79]doesn't fit in box:9
+value [340  79]doesn't fit in box:10
+value [340  79]doesn't fit in box:11
+value [340  79]doesn't fit in box:12
+value [341  78]doesn't fit in box:0
+value [341  78]doesn't fit in box:1
+value [341  78]doesn't fit in box:2
+value [341  78]doesn't fit in box:3
+value [341  78] goes to box: 4
+value [341  78] goes to box: 5
+value [341  78]doesn't fit in box:6
+value [341  78]doesn't fit in box:7
+value [341  78]doesn't fit in box:8
+value [341  78]doesn't fit in box:9
+value [341  78]doesn't fit in box:10
+value [341  78]doesn't fit in box:11
+value [341  78]doesn't fit in box:12
+value [341  77]doesn't fit in box:0
+value [341  77]doesn't fit in box:1
+value [341  77]doesn't fit in box:2
+value [341  77]doesn't fit in box:3
+value [341  77] goes to box: 4
+value [341  77] goes to box: 5
+value [341  77]doesn't fit in box:6
+value [341  77]doesn't fit in box:7
+value [341  77]doesn't fit in box:8
+value [341  77]doesn't fit in box:9
+value [341  77]doesn't fit in box:10
+value [341  77]doesn't fit in box:11
+value [341  77]doesn't fit in box:12
+value [340  76]doesn't fit in box:0
+value [340  76]doesn't fit in box:1
+value [340  76]doesn't fit in box:2
+value [340  76]doesn't fit in box:3
+value [340  76] goes to box: 4
+value [340  76] goes to box: 5
+value [340  76]doesn't fit in box:6
+value [340  76]doesn't fit in box:7
+value [340  76]doesn't fit in box:8
+value [340  76]doesn't fit in box:9
+value [340  76]doesn't fit in box:10
+value [340  76]doesn't fit in box:11
+value [340  76]doesn't fit in box:12
+value [340  72]doesn't fit in box:0
+value [340  72]doesn't fit in box:1
+value [340  72]doesn't fit in box:2
+value [340  72]doesn't fit in box:3
+value [340  72] goes to box: 4
+value [340  72] goes to box: 5
+value [340  72]doesn't fit in box:6
+value [340  72]doesn't fit in box:7
+value [340  72]doesn't fit in box:8
+value [340  72]doesn't fit in box:9
+value [340  72]doesn't fit in box:10
+value [340  72]doesn't fit in box:11
+value [340  72]doesn't fit in box:12
+value [339  71]doesn't fit in box:0
+value [339  71]doesn't fit in box:1
+value [339  71]doesn't fit in box:2
+value [339  71]doesn't fit in box:3
+value [339  71] goes to box: 4
+value [339  71] goes to box: 5
+value [339  71]doesn't fit in box:6
+value [339  71]doesn't fit in box:7
+value [339  71]doesn't fit in box:8
+value [339  71]doesn't fit in box:9
+value [339  71]doesn't fit in box:10
+value [339  71]doesn't fit in box:11
+value [339  71]doesn't fit in box:12
+value [339  65]doesn't fit in box:0
+value [339  65]doesn't fit in box:1
+value [339  65]doesn't fit in box:2
+value [339  65]doesn't fit in box:3
+value [339  65] goes to box: 4
+value [339  65] goes to box: 5
+value [339  65]doesn't fit in box:6
+value [339  65]doesn't fit in box:7
+value [339  65]doesn't fit in box:8
+value [339  65]doesn't fit in box:9
+value [339  65]doesn't fit in box:10
+value [339  65]doesn't fit in box:11
+value [339  65]doesn't fit in box:12
+value [338  64]doesn't fit in box:0
+value [338  64]doesn't fit in box:1
+value [338  64]doesn't fit in box:2
+value [338  64]doesn't fit in box:3
+value [338  64] goes to box: 4
+value [338  64] goes to box: 5
+value [338  64]doesn't fit in box:6
+value [338  64]doesn't fit in box:7
+value [338  64]doesn't fit in box:8
+value [338  64]doesn't fit in box:9
+value [338  64]doesn't fit in box:10
+value [338  64]doesn't fit in box:11
+value [338  64]doesn't fit in box:12
+value [338  63]doesn't fit in box:0
+value [338  63]doesn't fit in box:1
+value [338  63]doesn't fit in box:2
+value [338  63]doesn't fit in box:3
+value [338  63] goes to box: 4
+value [338  63]doesn't fit in box:5
+value [338  63]doesn't fit in box:6
+value [338  63]doesn't fit in box:7
+value [338  63]doesn't fit in box:8
+value [338  63]doesn't fit in box:9
+value [338  63]doesn't fit in box:10
+value [338  63]doesn't fit in box:11
+value [338  63]doesn't fit in box:12
+value [337  62]doesn't fit in box:0
+value [337  62]doesn't fit in box:1
+value [337  62]doesn't fit in box:2
+value [337  62]doesn't fit in box:3
+value [337  62] goes to box: 4
+value [337  62]doesn't fit in box:5
+value [337  62]doesn't fit in box:6
+value [337  62]doesn't fit in box:7
+value [337  62]doesn't fit in box:8
+value [337  62]doesn't fit in box:9
+value [337  62]doesn't fit in box:10
+value [337  62]doesn't fit in box:11
+value [337  62]doesn't fit in box:12
+value [337  61]doesn't fit in box:0
+value [337  61]doesn't fit in box:1
+value [337  61]doesn't fit in box:2
+value [337  61]doesn't fit in box:3
+value [337  61] goes to box: 4
+value [337  61]doesn't fit in box:5
+value [337  61]doesn't fit in box:6
+value [337  61]doesn't fit in box:7
+value [337  61]doesn't fit in box:8
+value [337  61]doesn't fit in box:9
+value [337  61]doesn't fit in box:10
+value [337  61]doesn't fit in box:11
+value [337  61]doesn't fit in box:12
+value [336  60]doesn't fit in box:0
+value [336  60]doesn't fit in box:1
+value [336  60]doesn't fit in box:2
+value [336  60]doesn't fit in box:3
+value [336  60] goes to box: 4
+value [336  60]doesn't fit in box:5
+value [336  60]doesn't fit in box:6
+value [336  60]doesn't fit in box:7
+value [336  60]doesn't fit in box:8
+value [336  60]doesn't fit in box:9
+value [336  60]doesn't fit in box:10
+value [336  60]doesn't fit in box:11
+value [336  60]doesn't fit in box:12
+value [335  60]doesn't fit in box:0
+value [335  60]doesn't fit in box:1
+value [335  60]doesn't fit in box:2
+value [335  60]doesn't fit in box:3
+value [335  60] goes to box: 4
+value [335  60]doesn't fit in box:5
+value [335  60]doesn't fit in box:6
+value [335  60]doesn't fit in box:7
+value [335  60]doesn't fit in box:8
+value [335  60]doesn't fit in box:9
+value [335  60]doesn't fit in box:10
+value [335  60]doesn't fit in box:11
+value [335  60]doesn't fit in box:12
+value [334  59]doesn't fit in box:0
+value [334  59]doesn't fit in box:1
+value [334  59]doesn't fit in box:2
+value [334  59]doesn't fit in box:3
+value [334  59] goes to box: 4
+value [334  59]doesn't fit in box:5
+value [334  59]doesn't fit in box:6
+value [334  59]doesn't fit in box:7
+value [334  59]doesn't fit in box:8
+value [334  59]doesn't fit in box:9
+value [334  59]doesn't fit in box:10
+value [334  59]doesn't fit in box:11
+value [334  59]doesn't fit in box:12
+value [325  59]doesn't fit in box:0
+value [325  59]doesn't fit in box:1
+value [325  59]doesn't fit in box:2
+value [325  59] goes to box: 3
+value [325  59] goes to box: 4
+value [325  59]doesn't fit in box:5
+value [325  59]doesn't fit in box:6
+value [325  59]doesn't fit in box:7
+value [325  59]doesn't fit in box:8
+value [325  59]doesn't fit in box:9
+value [325  59]doesn't fit in box:10
+value [325  59]doesn't fit in box:11
+value [325  59]doesn't fit in box:12
+value [324  58]doesn't fit in box:0
+value [324  58]doesn't fit in box:1
+value [324  58]doesn't fit in box:2
+value [324  58] goes to box: 3
+value [324  58] goes to box: 4
+value [324  58]doesn't fit in box:5
+value [324  58]doesn't fit in box:6
+value [324  58]doesn't fit in box:7
+value [324  58]doesn't fit in box:8
+value [324  58]doesn't fit in box:9
+value [324  58]doesn't fit in box:10
+value [324  58]doesn't fit in box:11
+value [324  58]doesn't fit in box:12
+value [323  59]doesn't fit in box:0
+value [323  59]doesn't fit in box:1
+value [323  59]doesn't fit in box:2
+value [323  59] goes to box: 3
+value [323  59] goes to box: 4
+value [323  59]doesn't fit in box:5
+value [323  59]doesn't fit in box:6
+value [323  59]doesn't fit in box:7
+value [323  59]doesn't fit in box:8
+value [323  59]doesn't fit in box:9
+value [323  59]doesn't fit in box:10
+value [323  59]doesn't fit in box:11
+value [323  59]doesn't fit in box:12
+value [322  59]doesn't fit in box:0
+value [322  59]doesn't fit in box:1
+value [322  59]doesn't fit in box:2
+value [322  59] goes to box: 3
+value [322  59] goes to box: 4
+value [322  59]doesn't fit in box:5
+value [322  59]doesn't fit in box:6
+value [322  59]doesn't fit in box:7
+value [322  59]doesn't fit in box:8
+value [322  59]doesn't fit in box:9
+value [322  59]doesn't fit in box:10
+value [322  59]doesn't fit in box:11
+value [322  59]doesn't fit in box:12
+value [321  58]doesn't fit in box:0
+value [321  58]doesn't fit in box:1
+value [321  58]doesn't fit in box:2
+value [321  58] goes to box: 3
+value [321  58] goes to box: 4
+value [321  58]doesn't fit in box:5
+value [321  58]doesn't fit in box:6
+value [321  58]doesn't fit in box:7
+value [321  58]doesn't fit in box:8
+value [321  58]doesn't fit in box:9
+value [321  58]doesn't fit in box:10
+value [321  58]doesn't fit in box:11
+value [321  58]doesn't fit in box:12
+value [312  58]doesn't fit in box:0
+value [312  58]doesn't fit in box:1
+value [312  58]doesn't fit in box:2
+value [312  58] goes to box: 3
+value [312  58] goes to box: 4
+value [312  58]doesn't fit in box:5
+value [312  58]doesn't fit in box:6
+value [312  58]doesn't fit in box:7
+value [312  58]doesn't fit in box:8
+value [312  58]doesn't fit in box:9
+value [312  58]doesn't fit in box:10
+value [312  58]doesn't fit in box:11
+value [312  58]doesn't fit in box:12
+value [311  59]doesn't fit in box:0
+value [311  59]doesn't fit in box:1
+value [311  59]doesn't fit in box:2
+value [311  59] goes to box: 3
+value [311  59] goes to box: 4
+value [311  59]doesn't fit in box:5
+value [311  59]doesn't fit in box:6
+value [311  59]doesn't fit in box:7
+value [311  59]doesn't fit in box:8
+value [311  59]doesn't fit in box:9
+value [311  59]doesn't fit in box:10
+value [311  59]doesn't fit in box:11
+value [311  59]doesn't fit in box:12
+value [303  59]doesn't fit in box:0
+value [303  59]doesn't fit in box:1
+value [303  59]doesn't fit in box:2
+value [303  59] goes to box: 3
+value [303  59] goes to box: 4
+value [303  59]doesn't fit in box:5
+value [303  59]doesn't fit in box:6
+value [303  59]doesn't fit in box:7
+value [303  59]doesn't fit in box:8
+value [303  59]doesn't fit in box:9
+value [303  59]doesn't fit in box:10
+value [303  59]doesn't fit in box:11
+value [303  59]doesn't fit in box:12
+value [302  60]doesn't fit in box:0
+value [302  60]doesn't fit in box:1
+value [302  60]doesn't fit in box:2
+value [302  60] goes to box: 3
+value [302  60] goes to box: 4
+value [302  60]doesn't fit in box:5
+value [302  60]doesn't fit in box:6
+value [302  60]doesn't fit in box:7
+value [302  60]doesn't fit in box:8
+value [302  60]doesn't fit in box:9
+value [302  60]doesn't fit in box:10
+value [302  60]doesn't fit in box:11
+value [302  60]doesn't fit in box:12
+value [294  60]doesn't fit in box:0
+value [294  60]doesn't fit in box:1
+value [294  60]doesn't fit in box:2
+value [294  60] goes to box: 3
+value [294  60]doesn't fit in box:4
+value [294  60]doesn't fit in box:5
+value [294  60]doesn't fit in box:6
+value [294  60]doesn't fit in box:7
+value [294  60]doesn't fit in box:8
+value [294  60]doesn't fit in box:9
+value [294  60]doesn't fit in box:10
+value [294  60]doesn't fit in box:11
+value [294  60]doesn't fit in box:12
+value [293  59]doesn't fit in box:0
+value [293  59]doesn't fit in box:1
+value [293  59]doesn't fit in box:2
+value [293  59] goes to box: 3
+value [293  59]doesn't fit in box:4
+value [293  59]doesn't fit in box:5
+value [293  59]doesn't fit in box:6
+value [293  59]doesn't fit in box:7
+value [293  59]doesn't fit in box:8
+value [293  59]doesn't fit in box:9
+value [293  59]doesn't fit in box:10
+value [293  59]doesn't fit in box:11
+value [293  59]doesn't fit in box:12
+value [292  60]doesn't fit in box:0
+value [292  60]doesn't fit in box:1
+value [292  60]doesn't fit in box:2
+value [292  60] goes to box: 3
+value [292  60]doesn't fit in box:4
+value [292  60]doesn't fit in box:5
+value [292  60]doesn't fit in box:6
+value [292  60]doesn't fit in box:7
+value [292  60]doesn't fit in box:8
+value [292  60]doesn't fit in box:9
+value [292  60]doesn't fit in box:10
+value [292  60]doesn't fit in box:11
+value [292  60]doesn't fit in box:12
+value [291  59]doesn't fit in box:0
+value [291  59]doesn't fit in box:1
+value [291  59]doesn't fit in box:2
+value [291  59] goes to box: 3
+value [291  59]doesn't fit in box:4
+value [291  59]doesn't fit in box:5
+value [291  59]doesn't fit in box:6
+value [291  59]doesn't fit in box:7
+value [291  59]doesn't fit in box:8
+value [291  59]doesn't fit in box:9
+value [291  59]doesn't fit in box:10
+value [291  59]doesn't fit in box:11
+value [291  59]doesn't fit in box:12
+value [290  60]doesn't fit in box:0
+value [290  60]doesn't fit in box:1
+value [290  60]doesn't fit in box:2
+value [290  60] goes to box: 3
+value [290  60]doesn't fit in box:4
+value [290  60]doesn't fit in box:5
+value [290  60]doesn't fit in box:6
+value [290  60]doesn't fit in box:7
+value [290  60]doesn't fit in box:8
+value [290  60]doesn't fit in box:9
+value [290  60]doesn't fit in box:10
+value [290  60]doesn't fit in box:11
+value [290  60]doesn't fit in box:12
+value [289  59]doesn't fit in box:0
+value [289  59]doesn't fit in box:1
+value [289  59]doesn't fit in box:2
+value [289  59] goes to box: 3
+value [289  59]doesn't fit in box:4
+value [289  59]doesn't fit in box:5
+value [289  59]doesn't fit in box:6
+value [289  59]doesn't fit in box:7
+value [289  59]doesn't fit in box:8
+value [289  59]doesn't fit in box:9
+value [289  59]doesn't fit in box:10
+value [289  59]doesn't fit in box:11
+value [289  59]doesn't fit in box:12
+value [288  59]doesn't fit in box:0
+value [288  59]doesn't fit in box:1
+value [288  59]doesn't fit in box:2
+value [288  59] goes to box: 3
+value [288  59]doesn't fit in box:4
+value [288  59]doesn't fit in box:5
+value [288  59]doesn't fit in box:6
+value [288  59]doesn't fit in box:7
+value [288  59]doesn't fit in box:8
+value [288  59]doesn't fit in box:9
+value [288  59]doesn't fit in box:10
+value [288  59]doesn't fit in box:11
+value [288  59]doesn't fit in box:12
+value [287  60]doesn't fit in box:0
+value [287  60]doesn't fit in box:1
+value [287  60]doesn't fit in box:2
+value [287  60] goes to box: 3
+value [287  60]doesn't fit in box:4
+value [287  60]doesn't fit in box:5
+value [287  60]doesn't fit in box:6
+value [287  60]doesn't fit in box:7
+value [287  60]doesn't fit in box:8
+value [287  60]doesn't fit in box:9
+value [287  60]doesn't fit in box:10
+value [287  60]doesn't fit in box:11
+value [287  60]doesn't fit in box:12
+value [286  59]doesn't fit in box:0
+value [286  59]doesn't fit in box:1
+value [286  59]doesn't fit in box:2
+value [286  59] goes to box: 3
+value [286  59]doesn't fit in box:4
+value [286  59]doesn't fit in box:5
+value [286  59]doesn't fit in box:6
+value [286  59]doesn't fit in box:7
+value [286  59]doesn't fit in box:8
+value [286  59]doesn't fit in box:9
+value [286  59]doesn't fit in box:10
+value [286  59]doesn't fit in box:11
+value [286  59]doesn't fit in box:12
+value [285  59]doesn't fit in box:0
+value [285  59]doesn't fit in box:1
+value [285  59]doesn't fit in box:2
+value [285  59] goes to box: 3
+value [285  59]doesn't fit in box:4
+value [285  59]doesn't fit in box:5
+value [285  59]doesn't fit in box:6
+value [285  59]doesn't fit in box:7
+value [285  59]doesn't fit in box:8
+value [285  59]doesn't fit in box:9
+value [285  59]doesn't fit in box:10
+value [285  59]doesn't fit in box:11
+value [285  59]doesn't fit in box:12
+value [284  60]doesn't fit in box:0
+value [284  60]doesn't fit in box:1
+value [284  60]doesn't fit in box:2
+value [284  60] goes to box: 3
+value [284  60]doesn't fit in box:4
+value [284  60]doesn't fit in box:5
+value [284  60]doesn't fit in box:6
+value [284  60]doesn't fit in box:7
+value [284  60]doesn't fit in box:8
+value [284  60]doesn't fit in box:9
+value [284  60]doesn't fit in box:10
+value [284  60]doesn't fit in box:11
+value [284  60]doesn't fit in box:12
+value [283  59]doesn't fit in box:0
+value [283  59]doesn't fit in box:1
+value [283  59]doesn't fit in box:2
+value [283  59] goes to box: 3
+value [283  59]doesn't fit in box:4
+value [283  59]doesn't fit in box:5
+value [283  59]doesn't fit in box:6
+value [283  59]doesn't fit in box:7
+value [283  59]doesn't fit in box:8
+value [283  59]doesn't fit in box:9
+value [283  59]doesn't fit in box:10
+value [283  59]doesn't fit in box:11
+value [283  59]doesn't fit in box:12
+value [261  59]doesn't fit in box:0
+value [261  59]doesn't fit in box:1
+value [261  59]doesn't fit in box:2
+value [261  59]doesn't fit in box:3
+value [261  59]doesn't fit in box:4
+value [261  59]doesn't fit in box:5
+value [261  59]doesn't fit in box:6
+value [261  59]doesn't fit in box:7
+value [261  59]doesn't fit in box:8
+value [261  59]doesn't fit in box:9
+value [261  59]doesn't fit in box:10
+value [261  59]doesn't fit in box:11
+value [261  59]doesn't fit in box:12
+We need a new box 
+length of Box list is NOW: 14
+Reference list is now: 14
+value [260  60]doesn't fit in box:0
+value [260  60]doesn't fit in box:1
+value [260  60]doesn't fit in box:2
+value [260  60]doesn't fit in box:3
+value [260  60]doesn't fit in box:4
+value [260  60]doesn't fit in box:5
+value [260  60]doesn't fit in box:6
+value [260  60]doesn't fit in box:7
+value [260  60]doesn't fit in box:8
+value [260  60]doesn't fit in box:9
+value [260  60]doesn't fit in box:10
+value [260  60]doesn't fit in box:11
+value [260  60]doesn't fit in box:12
+value [260  60] goes to box: 13
+value [259  60]doesn't fit in box:0
+value [259  60]doesn't fit in box:1
+value [259  60]doesn't fit in box:2
+value [259  60]doesn't fit in box:3
+value [259  60]doesn't fit in box:4
+value [259  60]doesn't fit in box:5
+value [259  60]doesn't fit in box:6
+value [259  60]doesn't fit in box:7
+value [259  60]doesn't fit in box:8
+value [259  60]doesn't fit in box:9
+value [259  60]doesn't fit in box:10
+value [259  60]doesn't fit in box:11
+value [259  60]doesn't fit in box:12
+value [259  60] goes to box: 13
+value [258  59]doesn't fit in box:0
+value [258  59]doesn't fit in box:1
+value [258  59]doesn't fit in box:2
+value [258  59]doesn't fit in box:3
+value [258  59]doesn't fit in box:4
+value [258  59]doesn't fit in box:5
+value [258  59]doesn't fit in box:6
+value [258  59]doesn't fit in box:7
+value [258  59]doesn't fit in box:8
+value [258  59]doesn't fit in box:9
+value [258  59]doesn't fit in box:10
+value [258  59]doesn't fit in box:11
+value [258  59]doesn't fit in box:12
+value [258  59] goes to box: 13
+value [257  60]doesn't fit in box:0
+value [257  60]doesn't fit in box:1
+value [257  60]doesn't fit in box:2
+value [257  60]doesn't fit in box:3
+value [257  60]doesn't fit in box:4
+value [257  60]doesn't fit in box:5
+value [257  60]doesn't fit in box:6
+value [257  60]doesn't fit in box:7
+value [257  60]doesn't fit in box:8
+value [257  60]doesn't fit in box:9
+value [257  60]doesn't fit in box:10
+value [257  60]doesn't fit in box:11
+value [257  60]doesn't fit in box:12
+value [257  60] goes to box: 13
+value [250  60]doesn't fit in box:0
+value [250  60]doesn't fit in box:1
+value [250  60]doesn't fit in box:2
+value [250  60]doesn't fit in box:3
+value [250  60]doesn't fit in box:4
+value [250  60]doesn't fit in box:5
+value [250  60]doesn't fit in box:6
+value [250  60]doesn't fit in box:7
+value [250  60]doesn't fit in box:8
+value [250  60]doesn't fit in box:9
+value [250  60]doesn't fit in box:10
+value [250  60]doesn't fit in box:11
+value [250  60]doesn't fit in box:12
+value [250  60] goes to box: 13
+value [249  59]doesn't fit in box:0
+value [249  59]doesn't fit in box:1
+value [249  59]doesn't fit in box:2
+value [249  59]doesn't fit in box:3
+value [249  59]doesn't fit in box:4
+value [249  59]doesn't fit in box:5
+value [249  59]doesn't fit in box:6
+value [249  59]doesn't fit in box:7
+value [249  59]doesn't fit in box:8
+value [249  59]doesn't fit in box:9
+value [249  59]doesn't fit in box:10
+value [249  59]doesn't fit in box:11
+value [249  59]doesn't fit in box:12
+value [249  59] goes to box: 13
+value [248  60]doesn't fit in box:0
+value [248  60]doesn't fit in box:1
+value [248  60]doesn't fit in box:2
+value [248  60]doesn't fit in box:3
+value [248  60]doesn't fit in box:4
+value [248  60]doesn't fit in box:5
+value [248  60]doesn't fit in box:6
+value [248  60]doesn't fit in box:7
+value [248  60]doesn't fit in box:8
+value [248  60]doesn't fit in box:9
+value [248  60]doesn't fit in box:10
+value [248  60]doesn't fit in box:11
+value [248  60]doesn't fit in box:12
+value [248  60] goes to box: 13
+value [240  60]doesn't fit in box:0
+value [240  60]doesn't fit in box:1
+value [240  60]doesn't fit in box:2
+value [240  60]doesn't fit in box:3
+value [240  60]doesn't fit in box:4
+value [240  60]doesn't fit in box:5
+value [240  60]doesn't fit in box:6
+value [240  60]doesn't fit in box:7
+value [240  60]doesn't fit in box:8
+value [240  60]doesn't fit in box:9
+value [240  60]doesn't fit in box:10
+value [240  60]doesn't fit in box:11
+value [240  60]doesn't fit in box:12
+value [240  60] goes to box: 13
+value [239  59]doesn't fit in box:0
+value [239  59]doesn't fit in box:1
+value [239  59]doesn't fit in box:2
+value [239  59]doesn't fit in box:3
+value [239  59]doesn't fit in box:4
+value [239  59]doesn't fit in box:5
+value [239  59]doesn't fit in box:6
+value [239  59]doesn't fit in box:7
+value [239  59]doesn't fit in box:8
+value [239  59]doesn't fit in box:9
+value [239  59]doesn't fit in box:10
+value [239  59]doesn't fit in box:11
+value [239  59]doesn't fit in box:12
+value [239  59] goes to box: 13
+value [238  59]doesn't fit in box:0
+value [238  59]doesn't fit in box:1
+value [238  59]doesn't fit in box:2
+value [238  59]doesn't fit in box:3
+value [238  59]doesn't fit in box:4
+value [238  59]doesn't fit in box:5
+value [238  59]doesn't fit in box:6
+value [238  59]doesn't fit in box:7
+value [238  59]doesn't fit in box:8
+value [238  59]doesn't fit in box:9
+value [238  59]doesn't fit in box:10
+value [238  59]doesn't fit in box:11
+value [238  59]doesn't fit in box:12
+value [238  59] goes to box: 13
+value [237  60]doesn't fit in box:0
+value [237  60]doesn't fit in box:1
+value [237  60]doesn't fit in box:2
+value [237  60]doesn't fit in box:3
+value [237  60]doesn't fit in box:4
+value [237  60]doesn't fit in box:5
+value [237  60]doesn't fit in box:6
+value [237  60]doesn't fit in box:7
+value [237  60]doesn't fit in box:8
+value [237  60]doesn't fit in box:9
+value [237  60]doesn't fit in box:10
+value [237  60]doesn't fit in box:11
+value [237  60]doesn't fit in box:12
+value [237  60] goes to box: 13
+value [236  59]doesn't fit in box:0
+value [236  59]doesn't fit in box:1
+value [236  59]doesn't fit in box:2
+value [236  59]doesn't fit in box:3
+value [236  59]doesn't fit in box:4
+value [236  59]doesn't fit in box:5
+value [236  59]doesn't fit in box:6
+value [236  59]doesn't fit in box:7
+value [236  59]doesn't fit in box:8
+value [236  59]doesn't fit in box:9
+value [236  59]doesn't fit in box:10
+value [236  59]doesn't fit in box:11
+value [236  59]doesn't fit in box:12
+value [236  59] goes to box: 13
+value [193  59]doesn't fit in box:0
+value [193  59]doesn't fit in box:1
+value [193  59] goes to box: 2
+value [193  59]doesn't fit in box:3
+value [193  59]doesn't fit in box:4
+value [193  59]doesn't fit in box:5
+value [193  59]doesn't fit in box:6
+value [193  59]doesn't fit in box:7
+value [193  59]doesn't fit in box:8
+value [193  59]doesn't fit in box:9
+value [193  59]doesn't fit in box:10
+value [193  59]doesn't fit in box:11
+value [193  59]doesn't fit in box:12
+value [193  59]doesn't fit in box:13
+value [192  58]doesn't fit in box:0
+value [192  58]doesn't fit in box:1
+value [192  58] goes to box: 2
+value [192  58]doesn't fit in box:3
+value [192  58]doesn't fit in box:4
+value [192  58]doesn't fit in box:5
+value [192  58]doesn't fit in box:6
+value [192  58]doesn't fit in box:7
+value [192  58]doesn't fit in box:8
+value [192  58]doesn't fit in box:9
+value [192  58]doesn't fit in box:10
+value [192  58]doesn't fit in box:11
+value [192  58]doesn't fit in box:12
+value [192  58]doesn't fit in box:13
+value [164  58]doesn't fit in box:0
+value [164  58] goes to box: 1
+value [164  58] goes to box: 2
+value [164  58]doesn't fit in box:3
+value [164  58]doesn't fit in box:4
+value [164  58]doesn't fit in box:5
+value [164  58]doesn't fit in box:6
+value [164  58]doesn't fit in box:7
+value [164  58]doesn't fit in box:8
+value [164  58]doesn't fit in box:9
+value [164  58]doesn't fit in box:10
+value [164  58]doesn't fit in box:11
+value [164  58]doesn't fit in box:12
+value [164  58]doesn't fit in box:13
+value [163  57]doesn't fit in box:0
+value [163  57] goes to box: 1
+value [163  57] goes to box: 2
+value [163  57]doesn't fit in box:3
+value [163  57]doesn't fit in box:4
+value [163  57]doesn't fit in box:5
+value [163  57]doesn't fit in box:6
+value [163  57]doesn't fit in box:7
+value [163  57]doesn't fit in box:8
+value [163  57]doesn't fit in box:9
+value [163  57]doesn't fit in box:10
+value [163  57]doesn't fit in box:11
+value [163  57]doesn't fit in box:12
+value [163  57]doesn't fit in box:13
+value [152  57]doesn't fit in box:0
+value [152  57] goes to box: 1
+value [152  57]doesn't fit in box:2
+value [152  57]doesn't fit in box:3
+value [152  57]doesn't fit in box:4
+value [152  57]doesn't fit in box:5
+value [152  57]doesn't fit in box:6
+value [152  57]doesn't fit in box:7
+value [152  57]doesn't fit in box:8
+value [152  57]doesn't fit in box:9
+value [152  57]doesn't fit in box:10
+value [152  57]doesn't fit in box:11
+value [152  57]doesn't fit in box:12
+value [152  57]doesn't fit in box:13
+value [151  56]doesn't fit in box:0
+value [151  56] goes to box: 1
+value [151  56]doesn't fit in box:2
+value [151  56]doesn't fit in box:3
+value [151  56]doesn't fit in box:4
+value [151  56]doesn't fit in box:5
+value [151  56]doesn't fit in box:6
+value [151  56]doesn't fit in box:7
+value [151  56]doesn't fit in box:8
+value [151  56]doesn't fit in box:9
+value [151  56]doesn't fit in box:10
+value [151  56]doesn't fit in box:11
+value [151  56]doesn't fit in box:12
+value [151  56]doesn't fit in box:13
+value [135  56] goes to box: 0
+value [135  56] goes to box: 1
+value [135  56]doesn't fit in box:2
+value [135  56]doesn't fit in box:3
+value [135  56]doesn't fit in box:4
+value [135  56]doesn't fit in box:5
+value [135  56]doesn't fit in box:6
+value [135  56]doesn't fit in box:7
+value [135  56]doesn't fit in box:8
+value [135  56]doesn't fit in box:9
+value [135  56]doesn't fit in box:10
+value [135  56]doesn't fit in box:11
+value [135  56]doesn't fit in box:12
+value [135  56]doesn't fit in box:13
+value [134  55] goes to box: 0
+value [134  55] goes to box: 1
+value [134  55]doesn't fit in box:2
+value [134  55]doesn't fit in box:3
+value [134  55]doesn't fit in box:4
+value [134  55]doesn't fit in box:5
+value [134  55]doesn't fit in box:6
+value [134  55]doesn't fit in box:7
+value [134  55]doesn't fit in box:8
+value [134  55]doesn't fit in box:9
+value [134  55]doesn't fit in box:10
+value [134  55]doesn't fit in box:11
+value [134  55]doesn't fit in box:12
+value [134  55]doesn't fit in box:13
+value [126  55] goes to box: 0
+value [126  55] goes to box: 1
+value [126  55]doesn't fit in box:2
+value [126  55]doesn't fit in box:3
+value [126  55]doesn't fit in box:4
+value [126  55]doesn't fit in box:5
+value [126  55]doesn't fit in box:6
+value [126  55]doesn't fit in box:7
+value [126  55]doesn't fit in box:8
+value [126  55]doesn't fit in box:9
+value [126  55]doesn't fit in box:10
+value [126  55]doesn't fit in box:11
+value [126  55]doesn't fit in box:12
+value [126  55]doesn't fit in box:13
+value [125  54] goes to box: 0
+value [125  54] goes to box: 1
+value [125  54]doesn't fit in box:2
+value [125  54]doesn't fit in box:3
+value [125  54]doesn't fit in box:4
+value [125  54]doesn't fit in box:5
+value [125  54]doesn't fit in box:6
+value [125  54]doesn't fit in box:7
+value [125  54]doesn't fit in box:8
+value [125  54]doesn't fit in box:9
+value [125  54]doesn't fit in box:10
+value [125  54]doesn't fit in box:11
+value [125  54]doesn't fit in box:12
+value [125  54]doesn't fit in box:13
+value [124  55] goes to box: 0
+value [124  55] goes to box: 1
+value [124  55]doesn't fit in box:2
+value [124  55]doesn't fit in box:3
+value [124  55]doesn't fit in box:4
+value [124  55]doesn't fit in box:5
+value [124  55]doesn't fit in box:6
+value [124  55]doesn't fit in box:7
+value [124  55]doesn't fit in box:8
+value [124  55]doesn't fit in box:9
+value [124  55]doesn't fit in box:10
+value [124  55]doesn't fit in box:11
+value [124  55]doesn't fit in box:12
+value [124  55]doesn't fit in box:13
+value [123  54] goes to box: 0
+value [123  54] goes to box: 1
+value [123  54]doesn't fit in box:2
+value [123  54]doesn't fit in box:3
+value [123  54]doesn't fit in box:4
+value [123  54]doesn't fit in box:5
+value [123  54]doesn't fit in box:6
+value [123  54]doesn't fit in box:7
+value [123  54]doesn't fit in box:8
+value [123  54]doesn't fit in box:9
+value [123  54]doesn't fit in box:10
+value [123  54]doesn't fit in box:11
+value [123  54]doesn't fit in box:12
+value [123  54]doesn't fit in box:13
